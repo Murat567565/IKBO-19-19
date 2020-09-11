@@ -19,7 +19,7 @@ public class Circle {
     }
 
     public int getxPos() {
-        return xPos;.
+        return xPos;
 
     }
 
